@@ -60,7 +60,7 @@ function App() {
   },
   {
     id: 9,
-    description: "Confía en mí.",
+    description: "Al menos di que si una vez :D.",
     img: "https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif"
   },
   {
